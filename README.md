@@ -1,4 +1,4 @@
-# 👾0André Rizzo
+# 👾André Rizzo
 
 **`Desenvolvedor front-end em formação! `**
 
@@ -41,6 +41,7 @@ Oi me chamo André, tenho 20 anos e sou natural do Ceará . Estou cursando Siste
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuis-Rizzo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-  <img src="https://raw.githubusercontent.com/AndreLuis-Rizzo/AndreLuis-Rizzo/output/snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/AndreLuis-Rizzo/AndreLuis-Rizzo/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
